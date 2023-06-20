@@ -41,3 +41,10 @@ Execute `/lands trust <player> [area or * for whole land]`
 2. Click on the 'Roles' button.
 3. From this page, you can create/remove roles and edit existing ones by clicking on them.
 
+### Promoting and Demoting Members
+
+1. Execute `/lands menu` to open the lands menu.
+2. Click on the 'Player Management' button.
+3. ~~???~~
+
+\

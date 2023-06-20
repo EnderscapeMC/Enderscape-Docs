@@ -9,6 +9,7 @@
 * [Lands](server-features/lands/README.md)
   * [Wars](server-features/lands/wars.md)
   * [Nations](server-features/lands/nations.md)
+  * [Renting and Selling](server-features/lands/renting-and-selling.md)
 * [mcMMO](server-features/mcmmo.md)
 * [Death Chests](server-features/death-chests.md)
 * [Shops](server-features/shops/README.md)
